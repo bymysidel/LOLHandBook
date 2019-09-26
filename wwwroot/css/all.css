@@ -1,0 +1,23 @@
+.sidebar{
+    top: 0;
+    left: 0;
+    height: 100%;
+    position: fixed;
+    background-color: #00a5e8;
+}
+.content{
+    display: block;
+    min-height: 100%;
+    width: 100%;
+    background-color: chartreuse;
+}
+
+.slide_button{
+    position: absolute;
+    width: 2em;
+    background-color:#e6eaea;
+    top:50%;
+    right:-2em;
+    border-top-right-radius: 1em;
+    border-bottom-right-radius: 1em;
+}
